@@ -31,7 +31,7 @@ struct ContentView: View {
             .accessibilityHint("Press the Button to Call an Action")
             
           
-            Text("This is a text")
+            Text("Hello!")
                 .font(.title)
                 .accessibilityAddTraits(.isHeader)
         }
